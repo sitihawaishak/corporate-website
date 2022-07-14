@@ -1,0 +1,97 @@
+/* CSS Layout */
+
+
+
+/* Main Background */
+.page {
+background-color:#f6f6f2;
+width:90%;
+margin:auto;
+padding:20px;
+}
+
+
+.nav {
+  background-color: #6fb3b8; 
+  list-style-type: none;
+  text-align: left;
+  margin: 0;
+  padding: 0;
+}
+
+.nav li {
+  display: inline-block;
+  font-size: 20px;
+  padding: 20px;
+}
+
+
+
+
+
+/* Header Section */
+.main-header {
+background-color:#c2edce;
+}
+
+
+
+
+/* Main + Sidebar Background */
+.container {
+background-color: #f6f6f2;
+padding:0px;
+}
+
+
+
+/* Main Section */
+.main {
+background-color: #c2edce;
+width:80%;
+float:left;
+}
+
+
+
+/* Sidebar Section */
+.sidebar {
+background-color: #badfe7;
+width:16%;
+float:right;
+
+}
+
+
+
+
+/* Footer Section */
+.main-footer {
+background-color:#6fb3b8;
+clear:both;
+}
+
+
+
+th, td {
+  border-style:solid;
+  border-color: #f6f6f2;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
